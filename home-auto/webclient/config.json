@@ -1,0 +1,22 @@
+{
+    "url":"<server-url>/living-room",
+    
+    "controls":  [
+        {
+            "type":"light",
+            "title":"Light",
+            "hook":"lamp_001"
+        },
+        {
+            "type":"heat",
+            "title":"Temperature",
+            "hook":"thermostat_001"
+        },
+        {
+            "type":"curtains",
+            "title":"Curtains",
+            "hook":"window_001"
+        }
+    ]
+    
+}

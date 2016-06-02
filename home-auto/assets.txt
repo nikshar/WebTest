@@ -1,0 +1,43 @@
+The following assets were reused for the purpose of this prototype:
+
+
+Light:
+———————
+icon
+http://img3.wikia.nocookie.net/__cb20130521032835/howtoprogram/images/b/b0/Light_bulb_icon.png
+
+light switches
+http://newyorknyhomeowner.com/wp-content/uploads/2012/03/Switch-from-Lancet.jpg
+
+light panels
+http://hgrm.sndimg.com/HGRM/2011/07/26/HGRM_toggle-light-switch_s3x4_lg.jpg
+
+================
+
+Temperature:
+—————
+icon
+http://upload.wikimedia.org/wikipedia/commons/9/9d/Farm-Fresh_temperature_5.png
+
+font
+http://www.ffonts.net/Digital-7.font.download
+
+buttons:
+http://iconstoc.com/wp-content/uploads/Up-and-Down-Button.jpg
+
+lcd panel:
+http://warmeraustralia.com.au/wp-content/uploads/2012/07/ET_11A.png
+
+===============
+
+Curtains:
+—————
+icon
+http://chemdrybenoni.co.za/images/curtains-icon.jpg
+
+sun icon
+http://www.fancyicons.com/free-icon/103/weather-icon-set/free-sunny-icon-png/
+
+curtains
+http://www.123rf.com/photo_4972261_vector-red-curtain.html?term=window%20curtain
+

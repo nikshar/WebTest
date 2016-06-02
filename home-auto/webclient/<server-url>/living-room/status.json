@@ -1,0 +1,22 @@
+{
+    "result":"success",
+    "controls":[
+            {
+                "id":"lamp_001",
+                "type":"light",
+                "status":1
+            },
+            {
+                "id":"thermostat_001",
+                "type":"heat",
+                "temperature":65,
+                "setTemperature":70,
+                "unit":"fahenheit"
+            },
+            {
+                "id":"window_001",
+                "type":"curtains",
+                "status":0.2
+            }
+    ]
+}
